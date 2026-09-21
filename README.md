@@ -3,3 +3,7 @@ Universal sticker-placement app built with React Native and Expo, featuring imag
 ## Screenshots of Sticker Smash Expo App
 ![Home Screen](assets/images/home.PNG)
 ![About Screen](assets/images/about.PNG)
+
+## Acknowledgements
+
+Built following the official [Expo StickerSmash Tutorial](https://docs.expo.dev/tutorial/introduction/) from the Expo documentation.
